@@ -54,21 +54,6 @@ Bilgisayar Mühendisliği öğrencisi olarak Veri Bilimi, Yapay Zekâ ve Mobil U
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=denizirfn&show_icons=true&theme=radical" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizirfn&layout=compact&theme=radical" height="180em" />
-</p>
-
-
----
-
-
-## 💻 LeetCode Stats
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/denizirfn?theme=dark&font=Roboto&ext=contest" />
-</p>
-
 
 
 ---
