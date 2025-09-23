@@ -23,7 +23,7 @@ Bilgisayar Mühendisliği öğrencisi olarak Veri Bilimi, Yapay Zekâ ve Mobil U
 ---
 
 
-## 🏆 Projeler
+## 🏆 Projeler ve Ödüller
 - **Eye Disease Classification with Deep Learning** — CNN tabanlı göz hastalığı teşhis sistemi.
 - **AI-Powered Image & Chat Assistant** — Görüntü analizi ve içerik toplama.
 - **Telco Churn Prediction** — Yapay sinir ağı ile müşteri ayrılma tahmini.
@@ -31,7 +31,7 @@ Bilgisayar Mühendisliği öğrencisi olarak Veri Bilimi, Yapay Zekâ ve Mobil U
 - **Fruit Ripeness Prediction** — Hiperspektral verilerle tarımsal ürün analizi.
 
 
-- **RACLAB NOVA** — Finalist
+- **RACLAB NOVA** — Finalist(2025 insansız su altı sistemler yarışma birincisi)
 - **ARMAS TİKA** — Finalist
 
 ---
